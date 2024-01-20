@@ -21,9 +21,9 @@
   #page>img{
     position: absolute;
     right: 5%;
-    top: 12%;
+    top: 8%;
     transform: translate(-50%);
-    width:40%;
+    width:50%;
   }
   #page>#nav{
     display: flex;
