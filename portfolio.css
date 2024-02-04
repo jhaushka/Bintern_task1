@@ -20,8 +20,8 @@
   }
   #page>img{
     position: absolute;
-    right: 5%;
-    top: 8%;
+    right: 15%;
+    top: 5%;
     transform: translate(-50%);
     width:50%;
   }
@@ -85,7 +85,6 @@
   left:80%;
   height:80%;
   top:10%;
-  transform:translate(-50%);
   width:35%;
 
 }
@@ -105,9 +104,6 @@
 #left>.box>h1{
   font-size:25px;
 }
-/*#left>.box>p{
-  margin-left:15px;
-}*/
 #text1{
   margin:50px 50px;
   height:30%;
